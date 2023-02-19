@@ -39,13 +39,13 @@ Choose between the economy and business classes.
 
 <a name="spec"></a>
 ## 3. Specification of date and price
-In case you selected a “+-3 days” option and a return flight date, a square diagram will appear, otherwise skip this step. 
-Take a look at the prices and dates. The most cost-effective prices are marked with a green sticker. 
+* In case you selected a “+-3 days” option and a return flight date, a square diagram will appear, otherwise skip this step. 
+  > Take a look at the prices and dates. The most cost-effective prices are marked with a green sticker. 
 
-Select a favorable combination of departure and return dates.
-Note: Prices on the square diagram show the lowest possible cost of two flights on those specific dates. The horizontal part of the diagram corresponds to a departure date, while the vertical row corresponds to the date of the return flight.
-Further within selected dates choose a satisfying time of flight.
-A list of tariffs will appear. Choose one to your liking. Press ‘continue’.
+  - Select a favorable combination of departure and return dates.
+  > Prices on the square diagram show the lowest possible cost of two flights on those specific dates. The horizontal part of the diagram corresponds to a departure date, while the vertical row corresponds to the date of the return flight.
+* Further within selected dates choose a satisfying time of flight.
+* A list of tariffs will appear. Choose one to your liking. Press ‘continue’.
 
 <a name="pass"></a>
 ## 4. Passenger info
