@@ -25,9 +25,9 @@ Click here for more information about Nomad Club or visit https://airastana.com/
 
 <a name="dard"></a>
 ## 2. Departure and Return Dates
-Press on the departure date. 
-Select the date on which you want your flight. 
-(If you don’t mind, select +-3 days option to allow flights 3 days prior or after your desired date to happen).
+* Press on the departure date. 
+* Select the date on which you want your flight. 
+> If you don’t mind, select +-3 days option to allow flights 3 days prior or after your desired date to happen).
 Repeat the process for the return flight date. 
 
 Select ‘I don’t need a return ticket’ if there is no need to buy it.
