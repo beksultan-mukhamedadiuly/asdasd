@@ -8,6 +8,15 @@ Instruction assignment for WCS210 Group 3
 Nomad Club is the frequent flyer programme of Air Astana. Members of Nomad club will receive points for eligible Air Astana flights and partners activities. These points can be exchanged for free flights or award upgrade tickets.
 Click here for more information about Nomad Club or visit https://airastana.com/kaz/en-us/Nomad-Club/About-Nomad-Club/Nomad-Club-Terms-and-Conditions 
 
+# Table of Contents
+* [Destination and Location](#Dal)
+* [Departure and Return Dates](#Dard)
+* [Specification of Date and Prices](#Spec)
+* [Passenger Info](#Pass)
+* [Services](#service)
+* [Seat Reservation](#seat)
+* [Finalization](#Finalization)
+
 ## 1. Destination and Location
 Click on the ‘From’ Scroller
 Select Departure point
