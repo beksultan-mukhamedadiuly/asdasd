@@ -19,9 +19,9 @@ Click here for more information about Nomad Club or visit https://airastana.com/
 
 <a name="dal"></a>
 ## 1. Destination and Location
-Click on the ‘From’ Scroller
-Select Departure point
-Repeat the process for the Arrival point
+* [Click on the ‘From’ Scroller]
+* [Select Departure point]
+* [Repeat the process for the Arrival point]
 
 <a name="dard"></a>
 ## 2. Departure and Return Dates
