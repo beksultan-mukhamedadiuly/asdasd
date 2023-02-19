@@ -9,20 +9,21 @@ Nomad Club is the frequent flyer programme of Air Astana. Members of Nomad club 
 Click here for more information about Nomad Club or visit https://airastana.com/kaz/en-us/Nomad-Club/About-Nomad-Club/Nomad-Club-Terms-and-Conditions 
 
 # Table of Contents
-* [Destination and Location](#Dal)
-* [Departure and Return Dates](#Dard)
-* [Specification of Date and Prices](#Spec)
-* [Passenger Info](#Pass)
+* [Destination and Location](#dal)
+* [Departure and Return Dates](#dard)
+* [Specification of Date and Prices](#spec)
+* [Passenger Info](#pass)
 * [Services](#service)
 * [Seat Reservation](#seat)
 * [Finalization](#Finalization)
 
+<a name="dal"></a>
 ## 1. Destination and Location
 Click on the ‘From’ Scroller
 Select Departure point
 Repeat the process for the Arrival point
 
-
+<a name="dard"></a>
 ## 2. Departure and Return Dates
 Press on the departure date. 
 Select the date on which you want your flight. 
@@ -36,6 +37,7 @@ Choose between the economy and business classes.
 
 Press the magnifier button to proceed forward
 
+<a name="spec"></a>
 ## 3. Specification of date and price
 In case you selected a “+-3 days” option and a return flight date, a square diagram will appear, otherwise skip this step. 
 Take a look at the prices and dates. The most cost-effective prices are marked with a green sticker. 
@@ -45,14 +47,16 @@ Note: Prices on the square diagram show the lowest possible cost of two flights 
 Further within selected dates choose a satisfying time of flight.
 A list of tariffs will appear. Choose one to your liking. Press ‘continue’.
 
-
+<a name="pass"></a>
 ## 4. Passenger info
 Fill the passenger information form. Fill the passenger information such as gender, full name, date of birth, document info, etc. Press continue.
 Note: If you could not go to the next page, please make sure that contact information was entered correctly and all mandatory fields were filled out. Name and Surname should contain letters of the Latin alphabet only.  
 
+<a name="service"></a>
 ## 5. Services
 Adjust the services page according to your needs and/or desires, including extra baggage, special meals and special assistance
-***
+
+<a name="seat"></a> 
 ## 6. Seat reservation
 In the “seat reservation” row press select. Choose a desired seat.
 Note: Seats at the top are closer to the nose of the aircraft. Reserving black seats is free, while yellow seats require additional money to be reserved
