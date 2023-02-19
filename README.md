@@ -8,7 +8,7 @@ About Nomad Club
 Nomad Club is the frequent flyer programme of Air Astana. Members of Nomad club will receive points for eligible Air Astana flights and partners activities. These points can be exchanged for free flights or award upgrade tickets.
 Click here for more information about Nomad Club or visit https://airastana.com/kaz/en-us/Nomad-Club/About-Nomad-Club/Nomad-Club-Terms-and-Conditions 
 
-# 1. Destination and Location
+## 1. Destination and Location
 Click on the ‘From’ Scroller
 Select Departure point
 Repeat the process for the Arrival point
@@ -44,7 +44,7 @@ Note: If you could not go to the next page, please make sure that contact inform
 # 5. Services
 Adjust the services page according to your needs and/or desires, including extra baggage, special meals and special assistance
 ***
-# 6. seat reservation
+# 6. Seat reservation
 In the “seat reservation” row press select. Choose a desired seat.
 Note: Seats at the top are closer to the nose of the aircraft. Reserving black seats is free, while yellow seats require additional money to be reserved
 Repeat the process for the return flight
